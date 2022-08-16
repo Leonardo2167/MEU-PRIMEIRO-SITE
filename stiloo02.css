@@ -49,7 +49,7 @@ header p {
     padding-top: 30px;
     padding-bottom: 20px;
     margin: auto;
-    width: 400px;
+    max-width: 400px;
     text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.404);
 }
 nav{
@@ -154,7 +154,6 @@ aside h3{
 ul{
     columns: 2;
     list-style-position: inside ;
-    padding-left: 200px;
 }
 
 ul li{
